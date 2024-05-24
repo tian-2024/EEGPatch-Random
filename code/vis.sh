@@ -1,0 +1,1 @@
+tensorboard --logdir=log_visual/24/05/20 --port 7007
