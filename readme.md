@@ -1,4 +1,4 @@
-# Brain-perceived Classification of Randomized Trials via Representational Projection and Augmented ResNet for EEG-Image
+# Classification of Randomized EEG Trials via Brain Perception of Natural Images
 
 
 1. unzip the `CVPR2021-02785.tar.gz`
